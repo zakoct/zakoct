@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on: www.colixtrans.site
 - 📫 How to reach me: noway
 - 😄 Pronouns: zak/oct
-- ⚡ Fun fact: zakocy forecoct concoct
+- ⚡ Fun fact: zakoct forecoct concoct
 
 <!---
 zakoct/zakoct is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
