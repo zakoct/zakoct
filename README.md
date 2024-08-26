@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on: www.colixtrans.web.app
 - 📫 How to reach me: email => zakoctconcoct@gmail.com
 - 😄 Pronouns: zak/oct
-- ⚡ Fun fact: zakoct forecoct concoct
+- ⚡ Fun fact: "Don't learn to code, Code to learn"
