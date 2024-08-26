@@ -1,7 +1,7 @@
 - 👋 Hiiii, I’m @zakoct
 - 👀 I’m interested in: interesting things
 - 🌱 I’m currently learning: learnable stuff
-- 💞️ I’m looking to collaborate on: www.colixtrans.site
-- 📫 How to reach me: email => zakoct@outlook.com
+- 💞️ I’m looking to collaborate on: www.colixtrans.web.app
+- 📫 How to reach me: email => zakoctconcoct@gmail.com
 - 😄 Pronouns: zak/oct
 - ⚡ Fun fact: zakoct forecoct concoct
