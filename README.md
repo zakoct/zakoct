@@ -1,7 +1,6 @@
 - 👋 Hiiii, I’m @zakoct
 - 👀 I’m interested in: interesting things
 - 🌱 I’m currently learning: learnable stuff
-- 💞️ I’m looking to collaborate on: www.colixtrans.web.app
-- 📫 How to reach me: email => zakoctconcoct@gmail.com
+- 📫 How to reach me: email => zakoct@outlook.com
 - 😄 Pronouns: zak/oct
-- ⚡ Fun fact: "Don't learn to code, Code to learn"
+- ⚡ Fun fact: "Don't learn to code, Code to learn or be a script kiddie"
