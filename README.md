@@ -1,6 +1,3 @@
-- 👋 Hiiii, I’m @zakoct
-- 👀 I’m interested in: interesting things
-- 🌱 I’m currently learning: learnable stuff
-- 📫 How to reach me: email => zakoct@outlook.com
-- 😄 Pronouns: zak/oct
-- ⚡ Fun fact: "Don't learn to code, Code to learn or be a script kiddie"
+مرحبا!!
+أنا zakoct
+أحب ضرب عصفورين بحجر واحد :c
